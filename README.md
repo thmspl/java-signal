@@ -1,2 +1,7 @@
-# java-signal
-Java wrapper for the Signal API
+# Java - Signal
+
+Java wrapper for the Signal API.
+
+## Authors
+
+Thomas Pauli, <mail@thomaspauli.ch>
